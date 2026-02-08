@@ -1,0 +1,121 @@
+Student_ID,Student_Name,GPA,Absences,Participation,Test_Score,Department,Year
+STU-001,Emma Johnson,5.9,1,95,98,Computer Science,4
+STU-002,Liam Smith,5.7,3,88,92,Computer Science,3
+STU-003,Olivia Williams,5.5,2,92,89,Mathematics,4
+STU-004,Noah Brown,5.2,5,78,85,Physics,3
+STU-005,Ava Davis,5.0,4,82,80,Computer Science,2
+STU-006,Ethan Miller,4.8,8,70,75,Engineering,3
+STU-007,Sophia Wilson,4.6,6,75,78,Mathematics,2
+STU-008,Mason Moore,4.4,10,65,72,Physics,2
+STU-009,Isabella Taylor,4.2,12,60,68,Computer Science,1
+STU-010,William Anderson,4.0,9,58,65,Engineering,2
+STU-011,Mia Thomas,3.8,15,55,60,Mathematics,1
+STU-012,James Jackson,3.6,14,50,55,Physics,1
+STU-013,Charlotte White,3.4,18,45,50,Computer Science,1
+STU-014,Benjamin Harris,3.2,20,40,45,Engineering,1
+STU-015,Amelia Martin,3.0,22,35,40,Mathematics,1
+STU-016,Lucas Garcia,2.8,25,30,35,Physics,1
+STU-017,Harper Martinez,2.5,28,25,30,Computer Science,1
+STU-018,Alexander Robinson,2.2,30,20,25,Engineering,1
+STU-019,Evelyn Clark,5.8,2,90,94,Computer Science,4
+STU-020,Daniel Rodriguez,5.6,4,85,88,Mathematics,3
+STU-021,Abigail Lewis,5.4,3,88,86,Physics,4
+STU-022,Michael Lee,5.1,6,76,82,Computer Science,3
+STU-023,Emily Walker,4.9,7,72,77,Engineering,2
+STU-024,Henry Hall,4.7,9,68,73,Mathematics,2
+STU-025,Elizabeth Allen,4.5,11,62,70,Physics,2
+STU-026,Sebastian Young,4.3,13,58,66,Computer Science,2
+STU-027,Sofia Hernandez,4.1,16,54,62,Engineering,1
+STU-028,Jack King,3.9,14,52,58,Mathematics,1
+STU-029,Avery Wright,3.7,17,48,54,Physics,1
+STU-030,Owen Lopez,3.5,19,44,48,Computer Science,1
+STU-031,Scarlett Hill,3.3,21,38,44,Engineering,1
+STU-032,Aiden Scott,3.1,23,34,38,Mathematics,1
+STU-033,Chloe Green,2.9,26,28,32,Physics,1
+STU-034,Samuel Adams,2.6,27,24,28,Computer Science,1
+STU-035,Aria Baker,2.3,29,22,24,Engineering,1
+STU-036,Joseph Gonzalez,5.85,1,93,96,Mathematics,4
+STU-037,Grace Nelson,5.65,3,86,90,Physics,4
+STU-038,David Carter,5.45,5,84,87,Computer Science,3
+STU-039,Zoey Mitchell,5.25,4,80,84,Engineering,3
+STU-040,Carter Perez,5.05,7,74,79,Mathematics,2
+STU-041,Lily Roberts,4.85,8,71,76,Physics,2
+STU-042,Wyatt Turner,4.65,10,67,72,Computer Science,2
+STU-043,Hannah Phillips,4.45,12,63,69,Engineering,2
+STU-044,Dylan Campbell,4.25,15,56,64,Mathematics,1
+STU-045,Penelope Parker,4.05,13,54,61,Physics,1
+STU-046,Luke Evans,3.85,16,49,56,Computer Science,1
+STU-047,Layla Edwards,3.65,18,46,52,Engineering,1
+STU-048,Gabriel Collins,3.45,20,42,47,Mathematics,1
+STU-049,Riley Stewart,3.25,22,36,42,Physics,1
+STU-050,Grayson Sanchez,2.95,24,32,36,Computer Science,1
+STU-051,Nora Morris,6.0,0,97,99,Mathematics,4
+STU-052,Isaac Rogers,5.75,2,91,93,Physics,4
+STU-053,Ellie Reed,5.55,4,87,88,Computer Science,3
+STU-054,Lincoln Cook,5.35,6,79,83,Engineering,3
+STU-055,Hazel Morgan,5.15,5,77,81,Mathematics,3
+STU-056,Leo Bell,4.95,9,73,77,Physics,2
+STU-057,Aurora Murphy,4.75,11,66,74,Computer Science,2
+STU-058,Jayden Bailey,4.55,14,61,68,Engineering,2
+STU-059,Violet Rivera,4.35,17,57,64,Mathematics,1
+STU-060,Asher Cooper,4.15,15,53,59,Physics,1
+STU-061,Stella Richardson,3.95,19,47,55,Computer Science,1
+STU-062,Mateo Cox,3.75,21,43,49,Engineering,1
+STU-063,Nova Howard,3.55,24,37,43,Mathematics,1
+STU-064,Ezra Ward,3.35,26,33,37,Physics,1
+STU-065,Bella Torres,3.15,28,27,31,Computer Science,1
+STU-066,Miles Peterson,2.85,30,23,26,Engineering,1
+STU-067,Lucy Gray,5.8,1,94,95,Mathematics,4
+STU-068,Eli Ramirez,5.6,3,89,91,Physics,4
+STU-069,Paisley James,5.4,5,83,85,Computer Science,3
+STU-070,Adrian Watson,5.2,7,78,81,Engineering,3
+STU-071,Savannah Brooks,5.0,6,75,78,Mathematics,2
+STU-072,Levi Kelly,4.8,10,69,74,Physics,2
+STU-073,Brooklyn Sanders,4.6,13,64,71,Computer Science,2
+STU-074,Hudson Price,4.4,16,59,65,Engineering,2
+STU-075,Claire Bennett,4.2,14,55,62,Mathematics,1
+STU-076,Colton Wood,4.0,18,51,57,Physics,1
+STU-077,Naomi Barnes,3.8,20,45,51,Computer Science,1
+STU-078,Dominic Ross,3.6,23,41,46,Engineering,1
+STU-079,Eleanor Henderson,3.4,25,35,41,Mathematics,1
+STU-080,Austin Coleman,3.2,27,29,34,Physics,1
+STU-081,Aaliyah Jenkins,2.9,29,25,29,Computer Science,1
+STU-082,Jaxon Perry,6.0,0,100,100,Engineering,4
+STU-083,Madelyn Powell,5.7,2,92,94,Mathematics,4
+STU-084,Christian Long,5.5,4,86,89,Physics,3
+STU-085,Genesis Patterson,5.3,5,81,84,Computer Science,3
+STU-086,Robert Hughes,5.1,8,76,79,Engineering,3
+STU-087,Kinsley Flores,4.9,9,72,75,Mathematics,2
+STU-088,Maverick Washington,4.7,12,67,73,Physics,2
+STU-089,Willow Butler,4.5,15,62,67,Computer Science,2
+STU-090,Ezekiel Simmons,4.3,18,56,63,Engineering,1
+STU-091,Addison Foster,4.1,16,52,58,Mathematics,1
+STU-092,Jose Gonzales,3.9,19,48,53,Physics,1
+STU-093,Isla Bryant,3.7,22,43,48,Computer Science,1
+STU-094,Jace Alexander,3.5,24,38,44,Engineering,1
+STU-095,Audrey Russell,3.3,26,32,38,Mathematics,1
+STU-096,Carson Griffin,3.1,28,26,32,Physics,1
+STU-097,Skylar Diaz,2.8,30,21,27,Computer Science,1
+STU-098,Josiah Hayes,5.85,1,95,97,Engineering,4
+STU-099,Eliana Myers,5.65,3,88,92,Mathematics,4
+STU-100,Julian Ford,5.45,5,85,87,Physics,3
+STU-101,Alice Hamilton,4.65,8,70,75,Computer Science,2
+STU-102,Max Graham,4.25,12,60,65,Engineering,2
+STU-103,Ruby Sullivan,3.85,15,55,58,Mathematics,1
+STU-104,Oscar Wallace,3.45,18,48,52,Physics,1
+STU-105,Ivy West,3.05,22,40,45,Computer Science,1
+STU-106,Felix Cole,2.65,26,30,35,Engineering,1
+STU-107,Sadie Jordan,5.1,6,78,82,Mathematics,3
+STU-108,Milo Reynolds,4.7,9,72,76,Physics,2
+STU-109,Autumn Fisher,4.3,13,65,70,Computer Science,2
+STU-110,Silas Spencer,3.9,17,58,62,Engineering,1
+STU-111,Piper Morrison,5.4,4,85,88,Mathematics,3
+STU-112,Caleb Russell,5.1,7,79,83,Physics,3
+STU-113,Quinn Wheeler,4.7,10,73,77,Computer Science,2
+STU-114,River Lawrence,4.3,14,66,71,Engineering,2
+STU-115,Jade Nichols,3.9,18,59,64,Mathematics,1
+STU-116,Chase Dixon,3.5,21,52,57,Physics,1
+STU-117,Serenity Hunt,3.1,25,44,48,Computer Science,1
+STU-118,Roman Palmer,2.7,28,36,40,Engineering,1
+STU-119,Summer Mills,5.75,2,92,95,Mathematics,4
+STU-120,Blake Gibson,5.1,5,80,85,Physics,3
